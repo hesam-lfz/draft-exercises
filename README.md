@@ -8,7 +8,7 @@ Not all code found on the Internet is well-explained with comments! Whether it i
 
 In this exercise, you will practice a common software engineer's task---reverse engineering unfamiliar codebase, in order to gain familiarity and to add extensions/modifications.
 
-You will be cloning a public, medium-size codebase on GitHub. After spending some time with the codebase to become familiar with it and "reverse engineer" its workings, you will be adding a couple of features to it.
+You will be cloning a public, medium-size codebase on GitHub. After spending some time with the codebase to become familiar with it and "reverse engineer" its workings, you will be adding a few features to it.
 
 ## Exercise
 
