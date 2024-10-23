@@ -4,6 +4,8 @@ Practicing the common software engineering task of reverse engineering unfamilia
 
 ## Exercise Overview
 
+Not all code found on the Internet is well-explained with comments! Whether it is somebody else's code or AI-generated code, as a software engineer you may spend a sizable amount of your time deciphering unfamiliar code.
+
 In this exercise, you will practice a common software engineer's task---reverse engineering unfamiliar codebase, in order to gain familiarity and to add extensions/modifications.
 
 You will be cloning a public, medium-size codebase on GitHub. After spending some time with the codebase to become familiar with it and "reverse engineer" its workings, you will be adding a couple of features to it.
@@ -47,6 +49,6 @@ npm run start
 1. Test all your features and fix any bugs.
 1. Add helpful comments anywhere in the code you modified or added new commands, in order to explain the purpose of each section of the code.
 
-### Submitting
+### Submit
 
 1. Submit your work by sending your instructor a link to your GitHub repository.
